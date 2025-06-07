@@ -6,6 +6,7 @@ on:
     branches: main
 concurrency: acceptance
 
+
 jobs:
   functional:
     name: Functional Acceptance Tests
